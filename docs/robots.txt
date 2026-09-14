@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kimisjun.github.io/hangul-japanese-input/sitemap.xml
