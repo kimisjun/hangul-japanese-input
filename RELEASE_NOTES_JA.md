@@ -25,4 +25,4 @@
 - 配布ZIPのSHA-256は、同時に公開する`.sha256`ファイルで確認できます。
 - 本ソフトウェアはMITライセンスで自由に利用・変更・再配布できます。
 
-詳しい手順はZIP同梱の日本語PDF、または[公式サイト](https://kimisjun.github.io/hangul-japanese-input/)をご覧ください。
+詳しい手順はZIP同梱の日本語PDF、または[公式サイト](https://kimisjun.github.io/hangul-japanese-input/)をご覧ください。リリースページではPDFに加え、編集可能なHWP版とDOCX版の日本語マニュアルも個別にダウンロードできます。
