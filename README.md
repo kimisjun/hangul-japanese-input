@@ -17,10 +17,10 @@
 ## 必要な環境
 
 - Windows 64-bit
-- Hancom Hangul（HWP）
+- Hancom Office Hangul（한글）
 - 韓国語Microsoft IME（2ボル式を推奨）
 
-> 現在のバージョンはHWP専用です。Microsoft Word、メモ帳、Webブラウザーでは変換しません。
+> 現在のバージョンはHancom Office Hangulアプリ専用です。Microsoft Word、メモ帳、Webブラウザー、HWP互換エディターでは変換しません。現行版の画面表示は韓国語です。
 
 ## 基本操作
 
@@ -48,6 +48,8 @@
 - 漢字候補は内蔵辞書に登録済みの語に限られます。
 - 発音表記によっては期待した変換にならないことがあります。
 - 実行ファイルは現在コード署名されていないため、Windows SmartScreenが警告する場合があります。配布元とハッシュを確認してください。
+- SHA-256: `fbb1f0daa09f0f1fb2c604405df9a8b3aaded2f081886f8118f939b756a68c59`
+- [チェックサムファイル](https://github.com/kimisjun/hangul-japanese-input/releases/download/v1.0.0/HangulJapaneseInput-v1.0.0-win-x64.zip.sha256)
 
 ## 開発とテスト
 
